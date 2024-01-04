@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 300px;
+}
+.hangman_box img{
+    display: none;
+}
+.hangman_box div{
+    width: 40%;
+}
