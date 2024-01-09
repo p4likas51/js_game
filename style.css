@@ -10,3 +10,6 @@
 .hangman_box div{
     width: 40%;
 }
+.hangman_box h1{
+    text-align: center;
+}
